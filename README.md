@@ -1,2 +1,2 @@
 # Front-End-Resume
-HTHML / CSS only
+HTML / CSS only
